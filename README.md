@@ -7,3 +7,6 @@ The deployable following Ml model can be used as a web service as an API.
 
 API KEY - Snqvtp9SuYfnhn2yZH7yzapcuU5/UDrJWwC7Ld1zFyXW9qTmFJb3RnbYz1TdNEdskwZTca/TKJrk7Bm6CzXV3Q==
 
+LINK TO SPECTATE ENTIRE EXPERIMENT- https://gallery.cortanaintelligence.com/Experiment/Restaurant-recommandation-engine
+
+Do check out the wiki to look for entire project details and methodolgy
