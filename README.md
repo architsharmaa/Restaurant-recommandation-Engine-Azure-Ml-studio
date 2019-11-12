@@ -10,3 +10,6 @@ API KEY - Snqvtp9SuYfnhn2yZH7yzapcuU5/UDrJWwC7Ld1zFyXW9qTmFJb3RnbYz1TdNEdskwZTca
 LINK TO SPECTATE ENTIRE EXPERIMENT- https://gallery.cortanaintelligence.com/Experiment/Restaurant-recommandation-engine
 
 Do check out the wiki to look for entire project details and methodolgy
+
+Notebook link -https://notebooks.azure.com/n/gj5dtarqvseypq/notebooks/1.ipynb
+<img src = "https://drive.google.com/file/d/1xg8NiPYMwJhd21nwpDigexkLQeAKhcZD/view?usp=sharing">
